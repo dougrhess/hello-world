@@ -1,2 +1,3 @@
 # hello-world
-doing what I am told
+Just doing what I am told by the Github Kitten.
+
